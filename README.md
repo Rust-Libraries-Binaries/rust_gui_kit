@@ -53,17 +53,7 @@ Phase 3: Improve event handling and introduce theming support.
 Ongoing: Regular updates based on community feedback and contributions.
 
 ## Contributing
-I welcome contributions! If you’d like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
-
-Fork the repo and create your branch from main.
-
-If you’ve added code that should be tested, add tests.
-
-If you’ve changed APIs, update the documentation.
-
-Ensure the test suite passes.
-
-Make sure your code lints.
+I am an avid open-source software advocate. Please feel free to fork my repositories and use them as you see fit. While I may not always be available to collaborate or indefinitely maintain these libraries, I hope they prove useful in your projects.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
