@@ -1,14 +1,9 @@
-pub fn add(left: u64, right: u64) -> u64 {
-    left + right
-}
+// Main module for the rust_gui_kit library
 
-#[cfg(test)]
-mod tests {
-    use super::*;
+pub mod window;
+pub mod button;
 
-    #[test]
-    fn it_works() {
-        let result = add(2, 2);
-        assert_eq!(result, 4);
-    }
+// Function to initialize the library (if needed)
+pub fn initialize() {
+    println!("rust_gui_kit initialized!");
 }
