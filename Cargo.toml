@@ -3,5 +3,7 @@ name = "rust_gui_kit"
 version = "0.1.0"
 authors = ["bensatlantik"]
 edition = "2021"
+description = "A cross-platform GUI framework for Rust to simplify the creation of desktop applications."
+license = "MIT"
 
 [dependencies]
