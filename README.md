@@ -53,7 +53,7 @@ Phase 3: Improve event handling and introduce theming support.
 Ongoing: Regular updates based on community feedback and contributions.
 
 ## Contributing
-We welcome contributions! If you’d like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+I welcome contributions! If you’d like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
 
 Fork the repo and create your branch from main.
 
