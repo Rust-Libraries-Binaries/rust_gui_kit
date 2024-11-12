@@ -1,3 +1,6 @@
+## Archived Repository
+This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.
+
 # rust_gui_kit
 
 **rust_gui_kit** is a cross-platform graphical user interface (GUI) framework for Rust. This library aims to simplify the creation of desktop applications that run smoothly on Windows, macOS, and Linux. With a simple API, rust_gui_kit provides developers with a basic platform on which to build GUIs.
