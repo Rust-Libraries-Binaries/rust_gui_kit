@@ -14,11 +14,12 @@ rust_gui_kit = "0.1.0"
 
 ## Examples
 To run an example, use:
-```cargo run --example example_name
+``` bash
+cargo run --example example_name
 ```
-
 Here is a simple example to get you started:
-```use rust_gui_kit::{window::Window, button::Button};
+```rust
+use rust_gui_kit::{window::Window, button::Button};
 
 fn main() {
     // Initialize the library (if needed)
@@ -35,7 +36,6 @@ fn main() {
     });
 }
 ```
-
 ## Contributing
 I am an avid open-source software advocate and contributor. I am not always available to collaborate or indefinitely maintain these libraries, but hope they prove useful in your projects. Please feel free to fork andy and all of my repositories - use and improve them as you see fit. 
 
