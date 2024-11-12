@@ -1,16 +1,6 @@
 # rust_gui_kit
 
-**rust_gui_kit** is a cross-platform graphical user interface (GUI) framework for Rust. This library aims to simplify the creation of desktop applications that run smoothly on Windows, macOS, and Linux. With a simple API, rust_gui_kit enables developers to build beautiful and responsive GUIs with ease.
-
-## Features
-
-- **Cross-Platform Support**: Create GUIs that work seamlessly on Windows, macOS, and Linux.
-- **Simple API**: Intuitive and easy-to-use API for rapid development.
-- **Basic Widgets**: Includes foundational widgets such as windows and buttons, with more to come.
-- **Event Handling**: Basic event handling to manage user interactions.
-- **Open-Source**: Encourage community contributions to expand and improve the library.
-
-## Getting Started
+**rust_gui_kit** is a cross-platform graphical user interface (GUI) framework for Rust. This library aims to simplify the creation of desktop applications that run smoothly on Windows, macOS, and Linux. With a simple API, rust_gui_kit provides developers with a basic platform on which to build GUIs.
 
 ### Installation
 
@@ -20,7 +10,13 @@ Add `rust_gui_kit` to your `Cargo.toml`:
 [dependencies]
 rust_gui_kit = "0.1.0"
 ```
-Usage
+## Usage
+
+## Examples
+To run an example, use:
+```cargo run --example example_name
+```
+
 Here is a simple example to get you started:
 ```use rust_gui_kit::{window::Window, button::Button};
 
@@ -39,13 +35,11 @@ fn main() {
     });
 }
 ```
-## Examples
-Check out the examples directory for more usage examples. To run an example, use:
-```cargo run --example example_name
-```
 
 ## Contributing
-I am an avid open-source software advocate. While I may not always be available to collaborate or indefinitely maintain these libraries, I hope they prove useful in your projects. Please feel free to fork my repositories - use and improve them as you see fit. This kit is a basic framework with window and button components. Add more widgets to increase functionality.
+I am an avid open-source software advocate and contributor. I am not always available to collaborate or indefinitely maintain these libraries, but hope they prove useful in your projects. Please feel free to fork andy and all of my repositories - use and improve them as you see fit. 
+
+This kit is a basic framework with window and button components. Add more widgets to increase functionality.
 
 ## Ideas for Potential Features
     1. Async Logging Library
