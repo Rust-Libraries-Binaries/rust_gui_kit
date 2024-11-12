@@ -71,6 +71,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Author
 Ben Santora <bensatlantik@gmail.com>
-
-## Donate
-If my Rust libraries have added value to your projects, consider supporting my work with a small donation. Thank you! [Donate Here](https://bensatlantik.github.io/donate.html)
