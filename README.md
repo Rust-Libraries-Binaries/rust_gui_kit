@@ -37,9 +37,9 @@ fn main() {
 }
 ```
 ## Contributing
-I am an avid open-source software advocate and contributor. I am not always available to collaborate or indefinitely maintain these libraries, but hope they prove useful in your projects. Please feel free to fork andy and all of my repositories - use and improve them as you see fit. 
+I am an avid open-source software advocate and contributor. I am not always available to collaborate or indefinitely maintain these libraries, but hope they prove useful in your projects. Please feel free to fork my repositories - use and improve them as you see fit. 
 
-This kit is a basic framework with window and button components. Add more widgets to increase functionality.
+This rust_gui_kit is a basic framework with window and button components. Add more widgets to increase functionality.
 
 ## Ideas for Potential Features
     1. Async Logging Library
